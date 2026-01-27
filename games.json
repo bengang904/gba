@@ -4,8 +4,21 @@
         "icon": "images/Fire Emblem.jpg",
          "description": "《火焰纹章》是一款回合制战棋 RPG，以格子移动、兵种克制和角色永久死亡为核心。像素演出精美，策略性极强，被认为是火焰纹章系列的经典巅峰之作。",
         "swfUrl": "gba/Fire Emblem.gba"
+    },
+    {
+        "name": "Pokemon Emerald",
+        "icon": "images/Pokemon Emerald.jpg",
+         "description": "《《宝可梦 绿宝石》》是GBA平台的宝可梦第三世代强化版RPG。以丰缘地区为舞台，融合红蓝宝石剧情，加入双反派冲突与战斗前线，系统完整、可玩性高，是GBA宝可梦的巅峰之作。",
+        "swfUrl": "gba/Pokemon Emerald.gba"
+    },
+     {
+        "name": "Mario Kart - Super Circuit",
+        "icon": "images/Mario Kart - Super Circuit.jpg",
+         "description": "《马里奥赛车：超级巡回赛》是GBA平台的官方赛车游戏，延续系列道具竞速玩法，包含全新赛道与经典复刻赛道，支持多人对战，节奏快、操作爽，是掌机时代代表性的马里奥赛车作品。",
+        "swfUrl": "gba/Mario Kart - Super Circuit.gba"
     }
 ]
+
 
 
 
