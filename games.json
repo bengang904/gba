@@ -8,7 +8,7 @@
     {
         "name": "Pokemon Emerald",
         "icon": "images/Pokemon Emerald.jpg",
-         "description": "《《宝可梦 绿宝石》》是GBA平台的宝可梦第三世代强化版RPG。以丰缘地区为舞台，融合红蓝宝石剧情，加入双反派冲突与战斗前线，系统完整、可玩性高，是GBA宝可梦的巅峰之作。",
+         "description": "《宝可梦：绿宝石》是GBA平台的宝可梦第三世代强化版RPG。以丰缘地区为舞台，融合红蓝宝石剧情，加入双反派冲突与战斗前线，系统完整、可玩性高，是GBA宝可梦的巅峰之作。",
         "swfUrl": "gba/Pokemon Emerald.gba"
     },
      {
@@ -18,6 +18,7 @@
         "swfUrl": "gba/Mario Kart - Super Circuit.gba"
     }
 ]
+
 
 
 
