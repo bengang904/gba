@@ -19,7 +19,7 @@ function renderGameCards(games) {
                 <div class="card-body">
                     <h5 class="card-title">${game.name}</h5>
                     <p class="card-text" onclick="toggleDescription(this)">${game.description}</p>
-                    <a href="launcher.html?url=${encodeURIComponent(game.swfUrl)}" target="_blank" class="btn">开始游戏</a>
+                    <a href="launcher.html?url=${encodeURIComponent(game.Url)}" target="_blank" class="btn">开始游戏</a>
                 </div>
             </div>
         `;
@@ -36,4 +36,5 @@ function toggleDescription(element) {
 window.onload = function() {
     loadGamesData();
 };
+
 
